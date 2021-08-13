@@ -1,5 +1,7 @@
 # todo-app-firebase
 
+#Projeyi kullanabilmek için firebase web uygulaması oluşturup oradaki konfigürasyon ayarlarını 
+#includes/firebase.js dosyasındaki config içine yapıştırmanız gerekiyor bu haliyle db olmadığı için çalışmayacaktır.
 ## Project setup
 ```
 npm install
